@@ -9,3 +9,4 @@
 REPORT ZKGAG01.
 
 write: 'Abapgit teszt 1'.
+write: '2. sor'. "Új
